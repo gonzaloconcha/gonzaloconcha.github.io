@@ -10,6 +10,10 @@
 }
 
 .profileFoto{
-    max-width: 200;
-    max-height: 200;
+    max-width: 200px;
+    max-height: 200px;
+}
+
+#backGround{
+    background-color: bisque;
 }
