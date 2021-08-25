@@ -16,5 +16,8 @@
 
 #backGround{
     background-color: bisque;
+    display: flex;
+    justify-content: center;
     align-items: center;
+    padding: 5px;
 }
