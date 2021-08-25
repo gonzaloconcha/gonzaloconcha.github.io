@@ -10,10 +10,11 @@
 }
 
 .foto{
-    width: 10%;
-    height: 10%;
+    width: 20%;
+    height: 20%;
 }
 
 #backGround{
     background-color: bisque;
+    align-items: center;
 }
