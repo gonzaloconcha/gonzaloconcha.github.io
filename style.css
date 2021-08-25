@@ -9,9 +9,9 @@
     flex-direction: column;
 }
 
-.profileFoto{
-    max-width: 200px;
-    max-height: 200px;
+.foto{
+    width: 200px;
+    height: 200px;
 }
 
 #backGround{
