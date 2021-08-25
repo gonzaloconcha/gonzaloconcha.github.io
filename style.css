@@ -7,3 +7,8 @@
     display: flex;
     flex-direction: column;
 }
+
+.profileFoto{
+    max-width: 200;
+    max-height: 200;
+}
